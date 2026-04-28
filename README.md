@@ -1,8 +1,6 @@
-===========================================================
 E-Commerce Performance Dashboard - Analysis Project
 Analist: Dita Faradilla
 Tahun: 2026
-===========================================================
 
 Dashboard ini dirancang untuk menganalisis performa penjualan e-commerce 
 menggunakan dataset publik, mencakup analisis kategori produk unggulan 
